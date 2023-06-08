@@ -1,4 +1,4 @@
-# GLOBAL-SOLUTION-BUSINESS
+# GLOBAL-SOLUTION-ENTERPRISE
 
 # apresentação do projeto
 
