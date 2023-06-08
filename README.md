@@ -1064,6 +1064,5 @@ PERGUNTAS
 ]
 	
 	
-	
-	# Diagrama de Classes
-	![Diagrama de classes](/diagrama_de_classe.png)
+# Diagrama de Classes
+![Diagrama de classes](/diagrama_de_classe.png)
