@@ -1,8 +1,8 @@
 # GLOBAL-SOLUTION-ENTERPRISE
 
-# apresentação do projeto
+# Apresentação do projeto
 
-https://www.youtube.com/watch?v=CQifoCnvLig
+https://youtu.be/XuR_VQSG7fM
 
 # Endpoints
 
